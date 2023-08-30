@@ -190,6 +190,7 @@
 
   p {
         color: var(--second-bg-color);
+        text-align: justify;
   }
 
   .about .box {
@@ -218,6 +219,7 @@
   .comp ul {
         color: var(--second-bg-color);
         font-weight: 500;
+        text-align: justify;
   }
 
   .comp ul li {
